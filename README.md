@@ -1,2 +1,8 @@
-# TheFirstTimeToTryGitHub
-It's just a try to use the GitHub and so on.
+#include <stdio.h>
+
+int main ()
+{
+  printf("Hello,my new world!")
+  
+  return 0;
+}
